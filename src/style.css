@@ -1,0 +1,48 @@
+:root {
+  --p: #a898c8;
+  --ps: #c4b8dc;
+  --pb: #d8d0e8;
+  --t: #4a3f5c;
+  --tm: #9a8eb8;
+  --ws: #fdfaf6;
+  --sh: rgba(70, 50, 100, 0.18);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: linear-gradient(135deg, #d4cce0, #c8c0d8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "PingFang TC", "Heiti TC", "Microsoft JhengHei", sans-serif;
+}
+
+/* Landscape hint for portrait mode on mobile */
+#rotate-hint {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(80, 60, 120, 0.92);
+  color: #fff;
+  font-size: 18px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 16px;
+  z-index: 9999;
+  text-align: center;
+}
+#rotate-hint .hi { font-size: 48px; }
+
+@media (orientation: portrait) and (max-width: 500px) {
+  #rotate-hint { display: flex; }
+}
