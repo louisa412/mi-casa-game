@@ -1,0 +1,17 @@
+{
+  "appId": "com.luisalifelab.micasa",
+  "appName": "Mi Casa",
+  "webDir": "dist",
+  "ios": {
+    "contentInset": "never"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "packageClassList": [
+    "SplashScreenPlugin",
+    "AudioSessionPlugin"
+  ]
+}

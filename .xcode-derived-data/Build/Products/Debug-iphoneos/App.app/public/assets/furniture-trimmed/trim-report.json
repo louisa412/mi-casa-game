@@ -1,0 +1,540 @@
+{
+  "inputDir": "public/assets/furniture",
+  "outputDir": "public/assets/furniture-trimmed",
+  "alphaThreshold": 0,
+  "generatedAt": "2026-04-27T13:55:22.168Z",
+  "files": [
+    {
+      "file": "bed_cream_french.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 782,
+        "height": 708
+      },
+      "trim": {
+        "top": 168,
+        "right": 137,
+        "bottom": 148,
+        "left": 105
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "bed_dark_noble.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 774,
+        "height": 703
+      },
+      "trim": {
+        "top": 173,
+        "right": 125,
+        "bottom": 148,
+        "left": 125
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "bed_japanese.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 863,
+        "height": 696
+      },
+      "trim": {
+        "top": 164,
+        "right": 80,
+        "bottom": 164,
+        "left": 81
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "bed_minimal.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 794,
+        "height": 716
+      },
+      "trim": {
+        "top": 170,
+        "right": 116,
+        "bottom": 138,
+        "left": 114
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "bed_nordic.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 867,
+        "height": 700
+      },
+      "trim": {
+        "top": 162,
+        "right": 78,
+        "bottom": 162,
+        "left": 79
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "bed_princess.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 801,
+        "height": 714
+      },
+      "trim": {
+        "top": 171,
+        "right": 108,
+        "bottom": 139,
+        "left": 115
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "bed_versailles.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 804,
+        "height": 743
+      },
+      "trim": {
+        "top": 145,
+        "right": 114,
+        "bottom": 136,
+        "left": 106
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "cabinet_japanese.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 742,
+        "height": 684
+      },
+      "trim": {
+        "top": 170,
+        "right": 141,
+        "bottom": 170,
+        "left": 141
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "cabinet_nordic.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 742,
+        "height": 684
+      },
+      "trim": {
+        "top": 170,
+        "right": 141,
+        "bottom": 170,
+        "left": 141
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "chair_fabric.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 406,
+        "height": 674
+      },
+      "trim": {
+        "top": 186,
+        "right": 320,
+        "bottom": 164,
+        "left": 298
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "chair_wood.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 411,
+        "height": 683
+      },
+      "trim": {
+        "top": 176,
+        "right": 314,
+        "bottom": 165,
+        "left": 299
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "curtain_blinds.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 390,
+        "height": 731
+      },
+      "trim": {
+        "top": 152,
+        "right": 317,
+        "bottom": 141,
+        "left": 317
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "curtain_french_double.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 891,
+        "height": 715
+      },
+      "trim": {
+        "top": 155,
+        "right": 66,
+        "bottom": 154,
+        "left": 67
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "curtain_navy.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 339,
+        "height": 656
+      },
+      "trim": {
+        "top": 183,
+        "right": 344,
+        "bottom": 185,
+        "left": 341
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "curtain_palace.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 554,
+        "height": 717
+      },
+      "trim": {
+        "top": 149,
+        "right": 235,
+        "bottom": 158,
+        "left": 235
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "curtain_princess_lace.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 472,
+        "height": 750
+      },
+      "trim": {
+        "top": 140,
+        "right": 281,
+        "bottom": 134,
+        "left": 271
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "curtain_sheer.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 456,
+        "height": 689
+      },
+      "trim": {
+        "top": 158,
+        "right": 254,
+        "bottom": 177,
+        "left": 314
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "deco_bouquet.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 519,
+        "height": 659
+      },
+      "trim": {
+        "top": 191,
+        "right": 266,
+        "bottom": 174,
+        "left": 239
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "deco_plant.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 416,
+        "height": 586
+      },
+      "trim": {
+        "top": 220,
+        "right": 315,
+        "bottom": 218,
+        "left": 293
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "desk_french.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 649,
+        "height": 642
+      },
+      "trim": {
+        "top": 202,
+        "right": 173,
+        "bottom": 180,
+        "left": 202
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "desk_industrial.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 644,
+        "height": 625
+      },
+      "trim": {
+        "top": 202,
+        "right": 184,
+        "bottom": 197,
+        "left": 196
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "desk_japanese.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 645,
+        "height": 620
+      },
+      "trim": {
+        "top": 203,
+        "right": 175,
+        "bottom": 201,
+        "left": 204
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "desk_minimal.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 641,
+        "height": 646
+      },
+      "trim": {
+        "top": 203,
+        "right": 182,
+        "bottom": 175,
+        "left": 201
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "desk_nordic.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 642,
+        "height": 620
+      },
+      "trim": {
+        "top": 203,
+        "right": 176,
+        "bottom": 201,
+        "left": 206
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "desk_round.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 682,
+        "height": 682
+      },
+      "trim": {
+        "top": 188,
+        "right": 171,
+        "bottom": 154,
+        "left": 171
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "desk_study.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 952,
+        "height": 687
+      },
+      "trim": {
+        "top": 168,
+        "right": 36,
+        "bottom": 169,
+        "left": 36
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "lamp_pendant.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 287,
+        "height": 612
+      },
+      "trim": {
+        "top": 168,
+        "right": 368,
+        "bottom": 244,
+        "left": 369
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    },
+    {
+      "file": "lamp_table.png",
+      "original": {
+        "width": 1024,
+        "height": 1024
+      },
+      "trimmed": {
+        "width": 382,
+        "height": 693
+      },
+      "trim": {
+        "top": 159,
+        "right": 330,
+        "bottom": 172,
+        "left": 312
+      },
+      "copied": false,
+      "reason": "trimmed transparent border"
+    }
+  ]
+}
